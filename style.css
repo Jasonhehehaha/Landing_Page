@@ -308,3 +308,161 @@ svg{
     max-width : 830px;
     justify-content : space-between;
 }
+
+@media (max-width: 895px){
+    .Navigation_Bar{
+    background-color: lightblue;
+    font-size: 12px;
+}
+.logo{
+    width: 120px;
+    margin-bottom: 5px;
+    margin-right: 70px;
+}
+.Login{
+    margin-right: 40px;
+    padding-left: 40px;
+}
+.first{
+    height: 90vh;
+}
+.first .sub h1{
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 60px;
+}
+.first .sub button{
+    background-color: white;
+    color: black;
+    margin-top: 50px;
+}
+.first .first-img{
+    margin-bottom: 50px;
+    width: 240px;
+}
+.first .second-img{
+    width: 200px;
+    margin-bottom: 5px;
+}
+.second{
+    height: 80vh;
+}
+.second .sub h1 {
+    letter-spacing: 1.5px;
+    font-size: 25px;
+}
+.second .frame1 {
+    position: absolute;
+    left: 50x;
+    bottom: 130px;
+    width: 75px;
+}
+.second .frame2 {
+    position: absolute;
+    top: 120px;
+    right: 100px;
+    width: 75px;
+}
+.LSG .part img {
+    width: 80px;
+    height: auto;
+    margin-bottom: 40px;
+}
+.LSG .part p {
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: 550;
+}
+.third .text h2{
+    font-size: 20px;
+    width: 240px;
+    line-height: 28px;
+}
+.third .text{
+    width: 240px;
+    font-size: 12px;
+    font-weight: 550;
+}
+img{
+    width: 240px;
+    margin-left: 120px;
+}
+.fourth .text h2 {
+    font-size: 20px;
+    width: 240px;
+    line-height: 28px;
+}
+img{
+    width: 200px;
+    margin-right: 120px;
+}
+.fourth .text p {
+    margin: 25px 0;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: 550;
+}
+.text a {
+    font-size: 12px;
+}
+.fifth .text h2 {
+    font-size: 20px;
+    width: 200px;
+    line-height: 28px;
+}
+.fifth .text p {
+    margin: 25px 0;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: 550;
+}
+img {
+    width: 150px;
+    margin-right: 120px;
+}
+.sixth .text h2 {
+    font-size: 20px;
+    width: 200px;
+    line-height: 28px;
+}
+.sixth .text p {
+    margin: 25px 0;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: 550;
+}
+.seventh .text h2 {
+    font-size: 20px;
+    width: 200px;
+    line-height: 28px;
+}
+.seventh .text p {
+    margin: 25px 0;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: 550;
+}
+.Footer {
+    height: 40vh;
+    background: blue;
+    padding: 40px 5% 55px 15%;
+}
+.top .part ul li:nth-child(1) {
+    font-size: 12px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.top .part ul li {
+    margin-bottom: 10px;
+    font-size: 10px;
+    margin-right: 20px;
+}
+.Bottom {
+    display: flex;
+    font-size: 10px;
+    max-width: 830px;
+    justify-content: space-between;
+    font-weight: 500;
+}
+}
